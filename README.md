@@ -1,3 +1,12 @@
+echo "# kasirReact" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/faiqhaidar12/kasirReact.git
+git push -u origin main
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
